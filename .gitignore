@@ -1,0 +1,9 @@
+# 本地私密配置（含邮箱授权码），绝不提交
+config.ini
+
+# 运行产物
+logs/
+out/
+__pycache__/
+*.pyc
+*.tmp
